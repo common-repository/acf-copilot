@@ -1,0 +1,10 @@
+.git/
+assets/dev/
+node_modules/
+.babelrc
+.gitignore
+gulpfile.js
+composer.json
+package.json
+package-lock.json
+webpack.config.js

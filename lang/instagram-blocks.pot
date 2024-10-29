@@ -1,0 +1,352 @@
+# Instagram Blocks - Loading Instagram media into your WordPress posts and pages within the Block Editor has never been easier.
+# Copyright (c) 2024 Instagram Blocks
+# This file is distributed under the same license as the plugin, GPLv2 or later.
+# Krasen Slavov <contact@developry>, 2024.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.1\n"
+"Report-Msgid-Bugs-To: Instagram Blocks <contact@developry>\n"
+"POT-Creation-Date: 2024-03-03 10:03+0200\n"
+"PO-Revision-Date: 2024-03-30 10:03+0200\n"
+"Last-Translator: Krasen Slavov <contact@developry>\n"
+"Language-Team: INBLOCKS <contact@developry>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Eazy Po 1.0.0.0\n"
+
+#: instagram-blocks.php:41
+msgid "Custom Blocks for Instagram"
+msgstr ""
+
+#: inc/admin/requirements/action-links.php:21
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/requirements/action-links.php:24
+#: inc/admin/requirements/pro-plugin.php:64
+msgid "Go Pro"
+msgstr ""
+
+#. translators: %1$s is replaced with "Plugin Name"
+#. translators: %2$s is replaced with "Min PHP Version"
+#. translators: %3$s is replaced with "Min WP Version"
+#: inc/admin/requirements/check-requirements.php:47
+#, php-format
+msgid "%1$s requires a minimum of PHP %2$s and WordPress %3$s"
+msgstr ""
+
+#. translators: %1$s is replaced with "PHP Version"
+#. translators: %2$s is replaced with "WordPress Version"
+#: inc/admin/requirements/check-requirements.php:59
+#, php-format
+msgid "You are currently running PHP %1$s and WordPress %2$s."
+msgstr ""
+
+#. translators: %1$s is replaced with by giving it 5 stars rating
+#: inc/admin/requirements/notice-rating.php:29
+#, php-format
+msgid ""
+"✨💪🔌 Could you please kindly help the plugin in your turn %1$s? (Thank you in "
+"advance) "
+msgstr ""
+
+#: inc/admin/requirements/notice-rating.php:32
+msgid "by giving it 5 stars rating"
+msgstr ""
+
+#: inc/admin/requirements/notice-rating.php:38
+msgid "Rate us @ WordPress.org"
+msgstr ""
+
+#: inc/admin/requirements/notice-rating.php:42
+#: inc/admin/requirements/pro-plugin.php:68
+msgid "I already did"
+msgstr ""
+
+#: inc/admin/requirements/notice-rating.php:45
+#: inc/admin/requirements/pro-plugin.php:71
+msgid "Don't show this notice again!"
+msgstr ""
+
+#: inc/admin/requirements/pro-plugin.php:34
+msgid "Instagram Blocks PRO 🚀"
+msgstr ""
+
+#. translators: %1$s is replaced with Found the free version helpful
+#. translators: %2$s is replaced with Instagram Blocks Pro
+#: inc/admin/requirements/pro-plugin.php:41
+#, php-format
+msgid ""
+"✨🎉📢 %1$s? Would you be interested in learning more about the benefits of "
+"upgrading to the %2$s? "
+msgstr ""
+
+#: inc/admin/requirements/pro-plugin.php:44
+msgid "Found the free version helpful"
+msgstr ""
+
+#: inc/admin/requirements/pro-plugin.php:45
+msgid "Instagram Blocks Pro"
+msgstr ""
+
+#. translators: %1$s is replaced with promo code
+#. translators: %2$s is replaced with 10% off
+#: inc/admin/requirements/pro-plugin.php:54
+#, php-format
+msgid "Use the %1$s code and get %2$s your purchase!"
+msgstr ""
+
+#: inc/admin/requirements/pro-plugin.php:57
+msgid "INBLOCKS10"
+msgstr ""
+
+#: inc/admin/requirements/pro-plugin.php:58
+#, php-format
+msgid "10% off"
+msgstr ""
+
+#: inc/admin/settings/settings-actions.php:27
+msgid "All options were reset to their default values."
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:27
+msgid "Get the PRO version today!"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:31
+msgid ""
+"With the PRO version you will get a lot more features with better "
+"performance and quicker recovery process."
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:36
+msgid "Feature"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:37
+msgid "Free"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:38
+msgid "PRO"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:41
+#: inc/library/class-instagram-blocks.php:67
+msgid "InstaBlocks"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:42
+msgid "image only"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:43
+msgid "image, video & gallery"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:46
+msgid "Integrated Instagram Auth"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:47
+#: inc/admin/settings/settings-main-page.php:57
+#: inc/admin/settings/settings-main-page.php:62
+#: inc/admin/settings/settings-main-page.php:77
+#: inc/admin/settings/settings-main-page.php:92
+msgid "no"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:48
+#: inc/admin/settings/settings-main-page.php:52
+#: inc/admin/settings/settings-main-page.php:53
+#: inc/admin/settings/settings-main-page.php:58
+#: inc/admin/settings/settings-main-page.php:63
+#: inc/admin/settings/settings-main-page.php:67
+#: inc/admin/settings/settings-main-page.php:68
+#: inc/admin/settings/settings-main-page.php:78
+#: inc/admin/settings/settings-main-page.php:82
+#: inc/admin/settings/settings-main-page.php:83
+#: inc/admin/settings/settings-main-page.php:87
+#: inc/admin/settings/settings-main-page.php:88
+#: inc/admin/settings/settings-main-page.php:93
+msgid "yes"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:51
+msgid "Image Block"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:56
+msgid "Video and Gallery Blocks"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:61
+msgid "Block Edit Mode"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:66
+msgid "Block Preview Mode"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:71
+msgid "Embed Custom Controls"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:72
+msgid "limited"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:73
+msgid "all"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:76
+msgid "Heading and Caption Controls"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:81
+msgid "Built-in Block Editor Controls"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:86
+msgid "Insert Public URLs"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:91
+msgid "Priority email support"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:96
+msgid "Regular plugin updates"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:97
+msgid "delayed"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:98
+msgid "first release"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:108
+msgid "GET PRO VERSION"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:115
+msgid "Watch Video"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:121
+#: inc/admin/settings/settings-menu.php:18
+#: inc/admin/settings/settings-menu.php:19
+msgid "Instagram Blocks"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:128
+msgid ""
+"Loading Instagram media into your WordPress posts and pages within the Block "
+"Editor has never been easier."
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:150
+msgid "Save"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:158
+msgid "Reset"
+msgstr ""
+
+#. translators: %1$s is replaced with "Link to WP.org support forums"
+#: inc/admin/settings/settings-main-page.php:173
+#, php-format
+msgid ""
+"If something is not clear, please open a ticket on the official plugin %1$s. "
+"All tickets should be addressed within a couple of working days."
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:176
+msgid "Support Forum"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:181
+msgid "Please rate us"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:187
+msgid "Having issues?"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:189
+msgid "Create a Support Ticket"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:193
+msgid "Developed by"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:195
+msgid "Krasen Slavov @ Developry"
+msgstr ""
+
+#. translators: %1$s is replaced with "Link to Patreon"
+#: inc/admin/settings/settings-main-page.php:208
+#, php-format
+msgid ""
+"* For the price of a cup of coffee per month, you can help and support me on "
+"%1$s in continuing to develop and maintain all of my free WordPress plugins, "
+"every little bit helps and is greatly appreciated!"
+msgstr ""
+
+#: inc/admin/settings/settings-main-page.php:211
+msgid "Patreon"
+msgstr ""
+
+#: inc/admin/settings/settings-page.php:31
+msgid "Types Supported"
+msgstr ""
+
+#: inc/admin/settings/settings-page.php:41
+msgid "User Access"
+msgstr ""
+
+#: inc/admin/settings/types-supported.php:43
+msgid "Select supported types for the plugin."
+msgstr ""
+
+#: inc/admin/settings/types-supported.php:64
+msgid "Supported types option was updated successfully."
+msgstr ""
+
+#: inc/admin/settings/user-access.php:40
+msgid "Select user access capabilities."
+msgstr ""
+
+#: inc/admin/settings/user-access.php:60
+msgid "User access was updated successfully."
+msgstr ""
+
+#. translators: %1$s is replaced with Invalid security token
+#. translators: %2$s is replaced with link to Support email
+#: inc/library/class-inblocks-admin.php:74
+#, php-format
+msgid "%1$s! Contact us @ %2$s."
+msgstr ""
+
+#: inc/library/class-inblocks-admin.php:76
+msgid "Invalid security token"
+msgstr ""
+
+#. translators: %1$s is replaced with Access denied
+#: inc/library/class-inblocks-admin.php:107
+#, php-format
+msgid ""
+"%1$s! Current user does not have the capabilities to access this function."
+msgstr ""
+
+#: inc/library/class-inblocks-admin.php:108
+msgid "Access denied"
+msgstr ""
